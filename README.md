@@ -1,15 +1,12 @@
-### Hi there 👋
+# Hi, I'm Tejas 👋🏾
 
-**tsabunkar/tsabunkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![MastHead](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tsabunkar.png)](http://www.tsabunkar.in/)
 
-Here are some ideas to get you started:
+I am a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. 
+I hold the top 6% Overall position in <a href="https://stackoverflow.com/users/7472904/sabunkar-tejas-sahailesh"> StackOverflow </a>.
 
-- 🔭 I’m currently working on a project to innovate
-- 🌱 I’m currently learning anything that fulfills my hunger of knowledge
-- 👯 I’m looking to collaborate on an open-source project which helps me start
-- 🤔 I’m looking for help with life guidance
-- 💬 Ask me about anything you feel like
-- 📫 How to reach me: https://www.linkedin.com/in/tsabunkar/
-- 😄 Pronouns: Sabunkar
-- ⚡ Fun fact: To be Updated 😆
 
+## Find me around the web 🌎:
+
+- Sharing updates on <a href="https://www.linkedin.com/in/tsabunkar/">LinkedIn</a> 💼
+- W
