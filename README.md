@@ -10,8 +10,5 @@ I hold the top 6% Overall position in <a href="https://stackoverflow.com/users/7
 ## Find me around the web 🌎
 
 <a href="https://www.linkedin.com/in/tsabunkar/"><img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/linkedin.svg" alt="LinkedIn handle"/></a>
-<a href="https://twitter.com/tsabunkar"><img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/twitter.png" alt="twitter handle"/></a>
-<a href="https://medium.com/@tsabunkar"><img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/medium.png" alt="medium handle"/></a>
-<a href="https://codepen.io/tsabunkar"><img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/codepen.png" alt="codepen handle"/></a>
-<a href="https://www.linkedin.com/in/tsabunkar/"><img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/linked.svg" alt="LinkedIn handle"/></a>
-<a href="https://www.linkedin.com/in/tsabunkar/"><img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/linked2.svg" alt="LinkedIn handle"/></a>
+<a href="https://medium.com/@tsabunkar"><img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/medium.svg" alt="medium handle"/></a>
+<a href="https://codepen.io/tsabunkar"><img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/codepen.svg" alt="codepen handle"/></a>
