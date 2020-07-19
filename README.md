@@ -1,10 +1,10 @@
 [![MastHead](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tsabunkar.jpeg)](http://www.tsabunkar.in/)
 
-I am a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
+I am a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. I blog my learnings sometimes and provide solution in SO. Reading is my most notorious passion.
 
 ## My everyday Associates
 
-![CSS](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/css.png) ![JavaScript](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/js.png) ![React](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/react.png) ![Vue](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/vue.png)
+![JavaScript](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/js.svg) ![Angular](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/ng.svg) ![Nodejs](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/nodejs.svg) ![Docker](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/docker.svg) ![Python](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/python.svg)![kubernetes](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/kubernetes.svg)
 
 ## Find me around the web 🌎
 
