@@ -1,5 +1,3 @@
-# Hi, I'm Tejas 👋🏾
-
 [![MastHead](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tsabunkar.jpeg)](http://www.tsabunkar.in/)
 
 I am a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
@@ -11,7 +9,7 @@ I hold the top 6% Overall position in <a href="https://stackoverflow.com/users/7
 
 ## Find me around the web 🌎 at
 
-<a href="https://www.linkedin.com/in/tsabunkar/"><img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/linkedin.jpg" alt="LinkedIn handle"/></a>
+<a href="https://www.linkedin.com/in/tsabunkar/"><img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/linkedin.svg" alt="LinkedIn handle"/></a>
 <a href="https://twitter.com/tsabunkar"><img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/twitter.png" alt="twitter handle"/></a>
 <a href="https://medium.com/@tsabunkar"><img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/medium.png" alt="medium handle"/></a>
 <a href="https://codepen.io/tsabunkar"><img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/codepen.png" alt="codepen handle"/></a>
