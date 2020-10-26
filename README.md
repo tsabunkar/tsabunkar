@@ -17,6 +17,4 @@ I am a software engineer who is passionate about making open-source more accessi
 
 ![Tejas GitHub statistic](https://github-readme-stats.vercel.app/api?username=tsabunkar&count_private=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsabunkar&&langs_count=10&&layout=compact)](https://github.com/tsabunkar/github-readme-stats)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tsabunkar&repo=github-readme-stats)](https://github.com/tsabunkar/javascript_basic_interview)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsabunkar&&langs_count=10&&layout=compact&theme=onedark)](https://github.com/tsabunkar/github-readme-stats)
