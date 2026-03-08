@@ -14,7 +14,3 @@ I am a software engineer who is passionate about making open-source more accessi
 <a href="https://stackoverflow.com/users/7472904/sabunkar-tejas-sahailesh"><img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/stack-overflow.svg" alt="stackoverflow handle"/></a>
 
 <br/>
-
-![Tejas GitHub statistic](https://github-readme-stats.vercel.app/api?username=tsabunkar&count_private=true&theme=onedark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsabunkar&&langs_count=10&&layout=compact&theme=onedark)](https://github.com/tsabunkar?tab=repositories)
