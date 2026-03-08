@@ -8,7 +8,7 @@ I am a software engineer who is passionate about making open-source more accessi
 
 ## Find me around the web 🌎
 
-<a href="https://www.tsabunkar.com"><img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/favicon.png" alt="My handle"/></a>
+<a href="https://www.tsabunkar.com"><img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/favicon.svg" alt="My handle"/></a>
 <a href="https://www.linkedin.com/in/tsabunkar/"><img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/linkedin.svg" alt="LinkedIn handle"/></a>
 <a href="https://medium.com/@tsabunkar"><img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/medium.svg" alt="medium handle"/></a>
 <a href="https://codepen.io/tsabunkar"><img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/codepen.svg" alt="codepen handle"/></a>
