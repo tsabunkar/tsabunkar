@@ -1,17 +1,52 @@
-[![MastHead](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tsabunkar.jpeg)](http://www.tsabunkar.in/)
+[![MastHead](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tsabunkar.jpeg)](https://www.tsabunkar.com)
 
-I am a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. I blog my learnings sometimes and provide solution in SO. Reading is my most notorious passion.
+# Tejas Sabunkar
+
+Software Engineer turned Solutions Architect with a passion for building scalable, production-grade systems.
+I enjoy designing architectures, solving complex system problems, and translating technical ideas into practical solutions.
+I share my learnings through writing, videos and community contributions (check out in Find me around the web).
 
 ## My everyday Associates 🧡
 
-![JavaScript](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/js.svg) ![Linux](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/linux.png) ![Angular](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/ng.svg) ![Nodejs](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/nodejs.svg) ![Docker](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/docker.svg) ![kubernetes](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/kubernetes.svg) ![Api](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/api.png) ![Artificial Intelligence](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/ai.png) ![Vue](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/vue.svg) ![CSS](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/css.svg) ![Database](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/db.png) ![Electronjs](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/electronjs.png) ![Git](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/git.svg) ![Html](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/html.svg) ![Java](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/java.svg) ![Cloud](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/cloud.png) ![React](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/react.svg) ![Typescript](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/ts.svg) ![Raspberry Pi](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/pi.svg) ![Python](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/python.svg)
+<p align="left">
+<img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/js.svg" height="30"/>
+<img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/linux.png" height="30"/>
+<img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/ng.svg" height="30"/>
+<img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/nodejs.svg" height="30"/>
+<img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/docker.svg" height="30"/>
+<img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/kubernetes.svg" height="30"/>
+<img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/api.png" height="30"/>
+<img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/ai.png" height="30"/>
+<img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/vue.svg" height="30"/>
+<img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/css.svg" height="30"/>
+<img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/db.png" height="30"/>
+<img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/electronjs.png" height="30"/>
+<img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/git.svg" height="30"/>
+<img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/html.svg" height="30"/>
+<img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/java.svg" height="30"/>
+<img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/cloud.png" height="30"/>
+<img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/react.svg" height="30"/>
+<img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/ts.svg" height="30"/>
+<img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/pi.svg" height="30"/>
+<img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/python.svg" height="30"/>
+</p>
 
 ## Find me around the web 🌎
 
-<a href="https://www.tsabunkar.com"><img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/favicon.svg" alt="My handle"/></a>
-<a href="https://www.linkedin.com/in/tsabunkar/"><img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/linkedin.svg" alt="LinkedIn handle"/></a>
-<a href="https://medium.com/@tsabunkar"><img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/medium.svg" alt="medium handle"/></a>
-<a href="https://codepen.io/tsabunkar"><img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/codepen.svg" alt="codepen handle"/></a>
-<a href="https://stackoverflow.com/users/7472904/sabunkar-tejas-sahailesh"><img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/stack-overflow.svg" alt="stackoverflow handle"/></a>
-
-<br/>
+<p align="left">
+<a href="https://www.tsabunkar.com">
+<img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/favicon.svg" height="28"/>
+</a>
+<a href="https://www.linkedin.com/in/tsabunkar/">
+<img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/linkedin.svg" height="28"/>
+</a>
+<a href="https://medium.com/@tsabunkar">
+<img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/medium.svg" height="28"/>
+</a>
+<a href="https://codepen.io/tsabunkar">
+<img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/codepen.svg" height="28"/>
+</a>
+<a href="https://stackoverflow.com/users/7472904/sabunkar-tejas-sahailesh">
+<img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/stack-overflow.svg" height="28"/>
+</a>
+</p>
