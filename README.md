@@ -10,7 +10,7 @@
 
 ## 🛠 Technical Expertise
 
-<p align="left">
+<p align="center">
 <img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/js.svg" height="50" alt="JavaScript"/>
 <img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/ts.svg" height="50" alt="TypeScript"/>
 <img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/tech/python.svg" height="50" alt="Python"/>
