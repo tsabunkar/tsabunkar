@@ -62,7 +62,7 @@ Feel free to reach out for collaborations, tech discussions, or just to say hell
 <img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/excalid.png" height="70" alt="Excalidraw"/>
 </a>
 <a href="https://www.youtube.com/@tsabunkar/videos" title="Youtube">
-<img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/youtube.png" height="70" alt="Youtube"/>
+<img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/youtube.png" height="70" width="80" alt="Youtube"/>
 </a>
 
 </p>
