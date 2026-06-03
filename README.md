@@ -64,6 +64,9 @@ Feel free to reach out for collaborations, tech discussions, or just to say hell
 <a href="https://www.youtube.com/@tsabunkar/videos" title="Youtube">
 <img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/youtube.png" height="70" width="80" alt="Youtube"/>
 </a>
+<a href="https://www.instagram.com/arch2lead" title="IG">
+<img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/ig.png" height="70" width="80" alt="IG"/>
+</a>
 
 </p>
 
