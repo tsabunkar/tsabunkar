@@ -59,6 +59,7 @@ I share my learnings through writing, videos and community contributions (check 
 ## Certified 🎓
 
 <p align="left">
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c23f1207-d9b7-46a8-8ee0-0fe1df2a77d8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/c23f1207-d9b7-46a8-8ee0-0fe1df2a77d8/public_url">
+<img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/saa.png" height="80"/>
 </a>
 </p>
