@@ -61,9 +61,9 @@ Feel free to reach out for collaborations, tech discussions, or just to say hell
 <a href="https://excalidraw.com/#json=f-5sw56FGkrgAdQNVJ4ed,tSPq-eXZ4SFY12nifvU-Ig" title="Excalidraw Drawings">
 <img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/excalid.png" height="70" alt="Excalidraw"/>
 </a>
-<a href="https://www.youtube.com/@tsabunkar/videos" title="Youtube">
+<!-- <a href="https://www.youtube.com/@tsabunkar/videos" title="Youtube">
 <img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/youtube.png" height="70" width="80" alt="Youtube"/>
-</a>
+</a> -->
 <a href="https://www.instagram.com/arch2lead" title="IG">
 <img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/ig.png" height="70" width="80" alt="IG"/>
 </a>
