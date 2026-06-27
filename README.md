@@ -58,7 +58,7 @@ Feel free to reach out for collaborations, tech discussions, or just to say hell
 <a href="https://buymeacoffee.com/tsabunkar" title="Buy Me a Coffee">
 <img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/coffee.png" height="70" alt="Buy Me a Coffee"/>
 </a>
-<a href="https://excalidraw.com/#json=7UvjhNSTVJ3QFf-yzLzRI,paM1h1GQ__pjKFBhhkbuEQ" title="Excalidraw Drawings">
+<a href="https://excalidraw.com/#json=wBnS3kzZhDFeviEOzjJZM,DyUfwV4WGgfTT7B16I6D8Q" title="Excalidraw Drawings">
 <img src="https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/icons/excalid.png" height="70" alt="Excalidraw"/>
 </a>
 <a href="https://www.youtube.com/@tsabunkar/videos" title="Youtube">
