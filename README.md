@@ -1,4 +1,4 @@
-[![MastHead](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/arch2lead.PNG)](https://www.tsabunkar.com)
+[![MastHead](https://raw.githubusercontent.com/tsabunkar/tsabunkar/master/arch2lead.png)](https://www.tsabunkar.com)
 
 # Tejas Sabunkar
 
